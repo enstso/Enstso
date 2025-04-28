@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Tech enthusiast working in software development, cybersecurity, cloud computing, and network/system administration.<br>🚀 I love tackling challenges, building secure solutions, and optimizing IT infrastructures.<br>📚 Always learning, always innovating.
+👨‍💻 Tech enthusiast working in software development, cybersecurity, cloud, and network/system administration.<br>🚀 I love tackling challenges, building secure solutions, and optimizing IT infrastructures.<br>📚 Always learning, always innovating.
 
 
 ## 🌐 Socials:
