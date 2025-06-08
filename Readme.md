@@ -32,13 +32,13 @@ As co-founder of [Unetra Tech](https://unetratech.com), I help businesses design
 
 ## 📌 Highlight Projects
 
-### 🔐 [6ipher_mail](#)
+### 🔐 [6ipher_mail](https://github.com/enstso/6iphermail_api)
 Advanced phishing detection system with AdonisJS API, .NET MAUI desktop UI, and React web app. Includes OAuth2, real-time scanning, and ML-based threat indicators.
 
-### 🕵️ [Spyware for Cybersecurity Training](#)
+### 🕵️ [Spyware for Cybersecurity Training](https://github.com/enstso/Spyware)
 Python-based educational spyware for red teaming. Features a reverse shell, keylogger, and network listener. Built with sockets, multithreading, and CLI control.
 
-### 💬 [CometChat](#)
+### 💬 [CometChat](https://github.com/enstso/CometChat)
 Full-stack real-time messaging app. Backend in NestJS, frontend in React, GraphQL API, background jobs with BullMQ and Redis. Dockerized deployment with CI/CD.
 
 ### ⚙️ Business Process Automation
