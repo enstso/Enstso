@@ -64,4 +64,3 @@ Used **n8n** and **Python** to automate business workflows in enterprise environ
 
 > _"I don't just write code — I architect secure, scalable IT ecosystems built to last."_
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Enstso&icon=5&color=1)](https://visitcount.itsvg.in)
