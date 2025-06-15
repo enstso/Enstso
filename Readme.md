@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-I’m a **Software Engineer in the banking sector**, with deep expertise across **software development, infrastructure, cybersecurity, cloud, and automation**.
+I’m a **Software Engineer in the banking sector**, across **software development, infrastructure, cybersecurity, cloud, and automation**.
 
 As co-founder of [Unetra Tech](https://unetratech.com), I help businesses design, secure, and scale high-performance IT systems — from robust codebases to resilient cloud architectures.
 
-💼 Working in **financial services**, I build mission-critical applications with a focus on performance, compliance, and security.  
+💼 Working in **different sectors**, I build mission-critical applications with a focus on performance, compliance, and security.  
 🛡️ Passionate about cybersecurity and DevOps, I thrive on designing elegant solutions that solve complex problems.  
 🧠 Forever curious and always learning.
 
