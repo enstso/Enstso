@@ -1,4 +1,4 @@
-# 👨‍💻 Enstso — Full-Spectrum Software Engineer
+# 👨‍💻 Enstso — Full-Spectrum IT Analyst Engineer
 
 **_"Build. Secure. Automate. Scale."_**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m a **Software Engineer in the banking sector**, across **software development, infrastructure, cybersecurity, cloud, and automation**.
+I’m a **IT Analyst in the banking sector**, across **software development, infrastructure, cybersecurity, cloud, and automation**.
 
 As co-founder of [Unetra Tech](https://unetratech.com), I help businesses design, secure, and scale high-performance IT systems — from robust codebases to resilient cloud architectures.
 
