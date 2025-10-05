@@ -55,7 +55,7 @@ Used **n8n** and **Python** to automate business workflows in enterprise environ
 
 ## 🌐 Connect with Me
 
-- 🌍 **Website:** [www.enstso.com](https://www.enstso.com)  
+- 🌍 **Website:** [enstso.com](https://enstso.com)  
 - 🧑‍💼 **LinkedIn:** [linkedin.com/in/enstso-j-1a274724a](https://www.linkedin.com/in/enstso-j-1a274724a)  
 - 💌 **Email:** enstso@outlook.fr  
 - 🧠 **Company:** [Unetra Tech](https://unetratech.com)
